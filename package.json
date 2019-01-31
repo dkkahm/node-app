@@ -1,0 +1,26 @@
+{
+  "name": "node-app",
+  "version": "0.0.1",
+  "description": "hello jenkins test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkkahm/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkkahm/node-app/issues"
+  },
+  "homepage": "https://github.com/dkkahm/node-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "supertest": "^3.4.2"
+  }
+}
