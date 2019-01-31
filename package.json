@@ -17,9 +17,8 @@
   },
   "homepage": "https://github.com/dkkahm/node-app#readme",
   "dependencies": {
-    "express": "^4.16.4"
-  },
-  "devDependencies": {
+    "express": "^4.16.4",
+    "j-file-model": "0.0.1",
     "jest": "^24.0.0",
     "supertest": "^3.4.2"
   }
